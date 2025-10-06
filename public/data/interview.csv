@@ -1,0 +1,48 @@
+formula_id,formula_name,creator,category,creation_date,notes,material_name,material_type,quantity_ml,percentage,cost_per_ml,supplier,material_notes
+F001,Ocean Breeze,Sarah Chen,Fresh,2024-03-15,"Light aquatic fragrance perfect for summer wear",Bergamot Oil,Top Note,15.0,15.0,2.50,CitrusCore,Calabrian bergamot - very bright
+F001,Ocean Breeze,Sarah Chen,Fresh,2024-03-15,"Light aquatic fragrance perfect for summer wear",Lemon Oil,Top Note,8.0,8.0,1.80,CitrusCore,Sicilian lemon - zesty opening
+F001,Ocean Breeze,Sarah Chen,Fresh,2024-03-15,"Light aquatic fragrance perfect for summer wear",Marine Accord,Top Note,12.0,12.0,4.20,AquaScents,Synthetic sea breeze effect
+F001,Ocean Breeze,Sarah Chen,Fresh,2024-03-15,"Light aquatic fragrance perfect for summer wear",Lavender Oil,Middle Note,18.0,18.0,3.10,Provence Oils,French lavender - calming
+F001,Ocean Breeze,Sarah Chen,Fresh,2024-03-15,"Light aquatic fragrance perfect for summer wear",Geranium Oil,Middle Note,10.0,10.0,2.80,Provence Oils,Rose-like freshness
+F001,Ocean Breeze,Sarah Chen,Fresh,2024-03-15,"Light aquatic fragrance perfect for summer wear",Cedar Wood,Base Note,20.0,20.0,1.90,WoodWorks,Virginian cedar - clean woody base
+F001,Ocean Breeze,Sarah Chen,Fresh,2024-03-15,"Light aquatic fragrance perfect for summer wear",White Musk,Base Note,12.0,12.0,5.50,SyntheticSupply,Clean lasting base
+F001,Ocean Breeze,Sarah Chen,Fresh,2024-03-15,"Light aquatic fragrance perfect for summer wear",Ambroxan,Base Note,5.0,5.0,8.20,SyntheticSupply,Ambergris-like warmth
+F002,Midnight Rose,Marcus Williams,Floral,2024-01-22,"Rich romantic rose blend with depth",Bulgarian Rose,Top Note,25.0,25.0,12.50,RoseBulgaria,Damask rose - premium quality
+F002,Midnight Rose,Marcus Williams,Floral,2024-01-22,"Rich romantic rose blend with depth",Pink Pepper,Top Note,3.0,3.0,4.80,SpiceRoute,Adds sparkle to rose
+F002,Midnight Rose,Marcus Williams,Floral,2024-01-22,"Rich romantic rose blend with depth",Jasmine Sambac,Middle Note,15.0,15.0,18.30,FloralExtracts,Intoxicating white floral
+F002,Midnight Rose,Marcus Williams,Floral,2024-01-22,"Rich romantic rose blend with depth",Rose Absolute,Middle Note,20.0,20.0,25.00,RoseBulgaria,Concentrated rose essence
+F002,Midnight Rose,Marcus Williams,Floral,2024-01-22,"Rich romantic rose blend with depth",Patchouli Oil,Base Note,12.0,12.0,3.20,EarthyEssence,Indonesian patchouli - earthy
+F002,Midnight Rose,Marcus Williams,Floral,2024-01-22,"Rich romantic rose blend with depth",Sandalwood Oil,Base Note,18.0,18.0,15.60,SandalSupply,Australian sandalwood - creamy
+F002,Midnight Rose,Marcus Williams,Floral,2024-01-22,"Rich romantic rose blend with depth",Vanilla Absolute,Base Note,7.0,7.0,11.20,VanillaCo,Madagascar vanilla - sweet base
+F003,Forest Walk,Elena Rodriguez,Woody,2024-02-08,"Inspired by morning hikes through pine forests",Pine Needle Oil,Top Note,20.0,20.0,2.10,ForestScents,Siberian pine - crisp and green
+F003,Forest Walk,Elena Rodriguez,Woody,2024-02-08,"Inspired by morning hikes through pine forests",Juniper Berry,Top Note,8.0,8.0,3.40,ForestScents,Fresh gin-like opening
+F003,Forest Walk,Elena Rodriguez,Woody,2024-02-08,"Inspired by morning hikes through pine forests",Eucalyptus Oil,Top Note,5.0,5.0,1.95,EucalyptusAus,Australian eucalyptus - mentholated
+F003,Forest Walk,Elena Rodriguez,Woody,2024-02-08,"Inspired by morning hikes through pine forests",Fir Balsam,Middle Note,22.0,22.0,2.80,ForestScents,Canadian fir - resinous heart
+F003,Forest Walk,Elena Rodriguez,Woody,2024-02-08,"Inspired by morning hikes through pine forests",Cedar Leaf,Middle Note,15.0,15.0,2.30,WoodWorks,Fresh cedar foliage
+F003,Forest Walk,Elena Rodriguez,Woody,2024-02-08,"Inspired by morning hikes through pine forests",Oakmoss Absolute,Base Note,8.0,8.0,22.50,MossSupply,Chypre base - earthy and damp
+F003,Forest Walk,Elena Rodriguez,Woody,2024-02-08,"Inspired by morning hikes through pine forests",Vetiver Oil,Base Note,15.0,15.0,4.60,GrassRoots,Haitian vetiver - smoky and green
+F003,Forest Walk,Elena Rodriguez,Woody,2024-02-08,"Inspired by morning hikes through pine forests",Amber,Base Note,7.0,7.0,6.80,AmberGlow,Warm resinous base
+F004,Citrus Burst,David Kim,Fresh,2024-04-01,"Energizing morning fragrance with vitamin C boost",Sweet Orange,Top Note,30.0,30.0,1.20,CitrusCore,Brazilian orange - juicy and bright
+F004,Citrus Burst,David Kim,Fresh,2024-04-01,"Energizing morning fragrance with vitamin C boost",Grapefruit Oil,Top Note,20.0,20.0,1.85,CitrusCore,Pink grapefruit - tart and fresh
+F004,Citrus Burst,David Kim,Fresh,2024-04-01,"Energizing morning fragrance with vitamin C boost",Lime Oil,Top Note,15.0,15.0,2.10,CitrusCore,Persian lime - zesty kick
+F004,Citrus Burst,David Kim,Fresh,2024-04-01,"Energizing morning fragrance with vitamin C boost",Petitgrain,Middle Note,18.0,18.0,2.70,CitrusCore,Orange leaves - green and woody
+F004,Citrus Burst,David Kim,Fresh,2024-04-01,"Energizing morning fragrance with vitamin C boost",Neroli Oil,Middle Note,12.0,12.0,28.50,FloralExtracts,Orange blossom - luxurious floral
+F004,Citrus Burst,David Kim,Fresh,2024-04-01,"Energizing morning fragrance with vitamin C boost",White Tea,Base Note,5.0,5.0,7.30,TeaScents,Delicate and clean
+F005,Spice Market,Amira Hassan,Oriental,2024-01-10,"Exotic blend inspired by Istanbul's Grand Bazaar",Cardamom Oil,Top Note,8.0,8.0,6.20,SpiceRoute,Green cardamom - aromatic and fresh
+F005,Spice Market,Amira Hassan,Oriental,2024-01-10,"Exotic blend inspired by Istanbul's Grand Bazaar",Coriander Seed,Top Note,6.0,6.0,3.80,SpiceRoute,Lemony spice note
+F005,Spice Market,Amira Hassan,Oriental,2024-01-10,"Exotic blend inspired by Istanbul's Grand Bazaar",Rose Petals,Top Note,12.0,12.0,8.90,RoseBulgaria,Turkish rose - spicy rose variant
+F005,Spice Market,Amira Hassan,Oriental,2024-01-10,"Exotic blend inspired by Istanbul's Grand Bazaar",Cinnamon Bark,Middle Note,10.0,10.0,4.50,SpiceRoute,Ceylon cinnamon - sweet and warm
+F005,Spice Market,Amira Hassan,Oriental,2024-01-10,"Exotic blend inspired by Istanbul's Grand Bazaar",Clove Oil,Middle Note,4.0,4.0,5.10,SpiceRoute,Madagascar clove - intense and warming
+F005,Spice Market,Amira Hassan,Oriental,2024-01-10,"Exotic blend inspired by Istanbul's Grand Bazaar",Saffron Absolute,Middle Note,2.0,2.0,45.00,LuxuryScents,Kashmir saffron - precious and honeyed
+F005,Spice Market,Amira Hassan,Oriental,2024-01-10,"Exotic blend inspired by Istanbul's Grand Bazaar",Oud Oil,Base Note,15.0,15.0,35.20,OudSupreme,Cambodian oud - rich and animalic
+F005,Spice Market,Amira Hassan,Oriental,2024-01-10,"Exotic blend inspired by Istanbul's Grand Bazaar",Frankincense,Base Note,20.0,20.0,8.90,ResinWorks,Omani frankincense - sacred and meditative
+F005,Spice Market,Amira Hassan,Oriental,2024-01-10,"Exotic blend inspired by Istanbul's Grand Bazaar",Amber,Base Note,18.0,18.0,6.80,AmberGlow,Warm and enveloping
+F005,Spice Market,Amira Hassan,Oriental,2024-01-10,"Exotic blend inspired by Istanbul's Grand Bazaar",Benzoin Resin,Base Note,5.0,5.0,12.40,ResinWorks,Siam benzoin - vanilla-like sweetness
+F006,Green Garden,Lisa Thompson,Fresh,2024-03-28,"Fresh cut grass and blooming herbs",Grass Accord,Top Note,25.0,25.0,3.20,GreenScents,Fresh lawn smell
+F006,Green Garden,Lisa Thompson,Fresh,2024-03-28,"Fresh cut grass and blooming herbs",Basil Oil,Top Note,12.0,12.0,4.10,HerbGarden,Sweet basil - culinary freshness
+F006,Green Garden,Lisa Thompson,Fresh,2024-03-28,"Fresh cut grass and blooming herbs",Green Leaves,Top Note,18.0,18.0,2.90,GreenScents,Crushed green foliage
+F006,Green Garden,Lisa Thompson,Fresh,2024-03-28,"Fresh cut grass and blooming herbs",Mint Oil,Middle Note,8.0,8.0,2.40,HerbGarden,Spearmint - cooling effect
+F006,Green Garden,Lisa Thompson,Fresh,2024-03-28,"Fresh cut grass and blooming herbs",Rosemary Oil,Middle Note,10.0,10.0,3.60,HerbGarden,Mediterranean rosemary - herbaceous
+F006,Green Garden,Lisa Thompson,Fresh,2024-03-28,"Fresh cut grass and blooming herbs",Thyme Oil,Middle Note,5.0,5.0,4.80,HerbGarden,Wild thyme - earthy herb
+F006,Green Garden,Lisa Thompson,Fresh,2024-03-28,"Fresh cut grass and blooming herbs",Green Tea,Middle Note,15.0,15.0,5.20,TeaScents,Japanese sencha - vegetal and fresh
+F006,Green Garden,Lisa Thompson,Fresh,2024-03-28,"Fresh cut grass and blooming herbs",Bamboo,Base Note,7.0,7.0,6.10,GreenScents,Asian bamboo - clean and modern
