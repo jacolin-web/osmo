@@ -15,5 +15,7 @@
 - As for styling, I relied heavily on Tailwind and used those color variables, in the future I would
   utilize color tokens to easily change color themes across the application.
 
+- If I had more time, I would also have better handling on empty states.
+
 - Lastly, I omitted testing for this assessment but I normally I would have unit tests for the core components
   such as the Filter, Search and Table functions.
